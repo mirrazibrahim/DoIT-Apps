@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DoIT</string>
+    <string name="apa_yang_ingin_kamu_lakukan_hari_ini">Apa yang ingin kamu lakukan hari ini?</string>
+    <string name="komentar">Komentar</string>
+    <string name="doit">DoIT</string>
+    <string name="tambah">Tambah</string>
+    <string name="tambahkan_tugas_anda">Tambahkan Tugas anda</string>
+    <string name="nama_tugas">Nama Tugas</string>
+    <string name="keterangan">Keterangan</string>
+    <string name="simpan">Simpan</string>
+    <string name="tugas">Tugas</string>
+</resources>
